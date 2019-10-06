@@ -1,0 +1,19 @@
+// // Core variables and mixins
+@import "base/variables.scss";
+@import "base/mixins.scss";
+
+// Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// // Global CSS
+@import "base/page.scss";
+
+// // Components
+@import "components/buttons.scss";
+@import "components/navbar.scss";
+
+// // Layout
+@import "layout/masthead.scss";
+@import "layout/services.scss";
+@import "layout/footer.scss";
+
