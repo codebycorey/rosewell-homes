@@ -19,15 +19,15 @@
   },
   "homepage": "https://github.com/ReycoDev/rosewell-homes#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.11.2",
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.15.0"
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.3",
-    "sass": "^1.22.12",
-    "webpack": "^4.41.0",
-    "webpack-cli": "^3.3.9"
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
   }
 }
