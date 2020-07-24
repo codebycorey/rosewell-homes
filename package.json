@@ -1,33 +1,23 @@
 {
   "name": "rosewell-homes",
-  "version": "1.0.0",
-  "description": "[Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.",
-  "main": "none",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build ./src/index.html",
-    "dev": "parcel ./src/index.html"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ReycoDev/rosewell-homes.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ReycoDev/rosewell-homes/issues"
-  },
-  "homepage": "https://github.com/ReycoDev/rosewell-homes#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0",
-    "bootstrap": "^4.4.1",
-    "jquery": "^3.5.0",
-    "popper.js": "^1.16.1"
+    "next": "9.4.4",
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "tailwindcss": "^1.5.2"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "sass": "^1.26.3",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "@types/node": "^14.0.24",
+    "@types/react": "^16.9.43",
+    "typescript": "^3.9.7"
   }
 }
