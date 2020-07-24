@@ -1,9 +1,9 @@
 
 export default function Services() {
     return (
-        <section className="text-gray-700 bg-gray-200 body-font">
-            <div className="container px-5 py-24 mx-auto">
-                <div className="text-center mb-20">
+        <section id="services" className="text-gray-700 body-font">
+            <div className="container px-5 py-10 md:py-24 mx-auto">
+                <div className="text-center mb-10 md:mb-20">
                     <h3 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">Services</h3>
                 </div>
                 <div className="flex flex-wrap justify-center sm:-m-4 -mx-4 -mb-10 -mt-4">

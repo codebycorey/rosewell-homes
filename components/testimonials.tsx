@@ -2,8 +2,8 @@
 export default function Testimonials() {
     return (
         <section className="text-gray-700 body-font">
-            <div className="container px-5 py-24 mx-auto">
-                <h3 className="text-3xl font-medium title-font text-gray-900 mb-12 text-center">Testimonials</h3>
+            <div className="container px-5 md:py-24 mx-auto">
+                <h3 className="text-3xl font-medium title-font text-gray-900 mb-10 md:mb-20 text-center">Testimonials</h3>
                 <div className="flex flex-wrap -m-4">
                 <div className="p-4 md:w-1/2 w-full">
                     <div className="h-full bg-gray-200 p-8 rounded">
