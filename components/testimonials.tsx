@@ -2,7 +2,7 @@
 export default function Testimonials() {
     return (
         <section className="text-gray-700 body-font">
-            <div className="container px-5 md:py-24 mx-auto">
+            <div className="container px-5 py-10 md:py-24 mx-auto">
                 <h3 className="text-3xl font-medium title-font text-gray-900 mb-10 md:mb-20 text-center">
                     Testimonials
                 </h3>
