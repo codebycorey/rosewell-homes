@@ -15,6 +15,7 @@ export default function Home() {
     return (
         <div>
             <Head>
+                <title>Rosewell Homes, Inc</title>
                 <meta property="og:type" content="website" />
                 <meta property="og:site_name" content={SITE_NAME} />
                 <meta property="og:title" content={SITE_TITLE} />
