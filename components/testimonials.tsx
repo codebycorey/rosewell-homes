@@ -42,7 +42,7 @@ export default function Testimonials() {
                             <a className="inline-flex items-center">
                                 <span className="flex-grow flex flex-col pl-4">
                                     <span className="title-font font-medium text-grey-900">
-                                        - Donald J Frederick, CPA, CGMA
+                                        - Dana Sari
                                     </span>
                                 </span>
                             </a>
@@ -70,7 +70,7 @@ export default function Testimonials() {
                             <a className="inline-flex items-center">
                                 <span className="flex-grow flex flex-col pl-4">
                                     <span className="title-font font-medium text-grey-900">
-                                        - Dana Sari
+                                        - Donald J Frederick, CPA, CGMA
                                     </span>
                                 </span>
                             </a>
