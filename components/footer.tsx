@@ -41,7 +41,7 @@ export default function Footer() {
                 </a>
                 <p className="text-sm text-gray-400 sm:ml-6 sm:mt-0 mt-4">© 2020 Rosewell Homes</p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start text-gray-600 text-sm">
-                    Designed by <a href="https://coreyodonnell.dev" className="text-gray-400 ml-1" target="_blank" rel="noopener noreferrer">coreyodonnell.dev</a>
+                    Designed by <a href="https://coreyodonnell.tech" className="text-gray-400 ml-1" target="_blank">coreyodonnell.tech</a>
                 </span>
                 </div>
             </div>
